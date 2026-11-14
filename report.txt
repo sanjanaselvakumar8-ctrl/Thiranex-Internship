@@ -1,0 +1,16 @@
+VULNERABILITY SCANNER REPORT
+===================================
+Target: example.com
+Port 21: CLOSED
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Port 3306: CLOSED
+Port 8080: OPEN
+X-Frame-Options: MISSING
+X-Content-Type-Options: MISSING
+Content-Security-Policy: MISSING
+Strict-Transport-Security: MISSING
+Server Information: cloudflare
+SSL Certificate: VALID
+Expiry Date: 2026-12-25 22:56:35
